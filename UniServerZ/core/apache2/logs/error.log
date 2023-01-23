@@ -41,3 +41,9 @@
 [Mon Jan 09 13:54:49.563636 2023] [core:notice] [pid 6112:tid 476] AH00094: Command line: 'C:\\Users\\jmszf\\OneDrive\\Documentos\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/jmszf/OneDrive/Documentos/UniServerZ/core/apache2 -f C:\\Users\\jmszf\\OneDrive\\Documentos\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\jmszf\\OneDrive\\Documentos\\UniServerZ\\core\\apache2'
 [Mon Jan 09 13:54:49.573921 2023] [mpm_winnt:notice] [pid 6112:tid 476] AH00418: Parent: Created child process 17064
 [Mon Jan 09 13:54:50.215480 2023] [mpm_winnt:notice] [pid 17064:tid 868] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 23 21:12:13.953394 2023] [core:warn] [pid 26488:tid 628] AH00098: pid file C:/Users/FiercePC/Documents/GitHub/Projeto-de-IRSO-/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 23 21:12:14.086760 2023] [mpm_winnt:notice] [pid 26488:tid 628] AH00455: Apache/2.4.41 (Win32) PHP/7.4.0 configured -- resuming normal operations
+[Mon Jan 23 21:12:14.086760 2023] [mpm_winnt:notice] [pid 26488:tid 628] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 11:47:29
+[Mon Jan 23 21:12:14.086760 2023] [core:notice] [pid 26488:tid 628] AH00094: Command line: 'C:\\Users\\FiercePC\\Documents\\GitHub\\Projeto-de-IRSO-\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/FiercePC/Documents/GitHub/Projeto-de-IRSO-/UniServerZ/core/apache2 -f C:\\Users\\FiercePC\\Documents\\GitHub\\Projeto-de-IRSO-\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\FiercePC\\Documents\\GitHub\\Projeto-de-IRSO-\\UniServerZ\\core\\apache2'
+[Mon Jan 23 21:12:14.088756 2023] [mpm_winnt:notice] [pid 26488:tid 628] AH00418: Parent: Created child process 21144
+[Mon Jan 23 21:12:14.706419 2023] [mpm_winnt:notice] [pid 21144:tid 664] AH00354: Child: Starting 150 worker threads.
