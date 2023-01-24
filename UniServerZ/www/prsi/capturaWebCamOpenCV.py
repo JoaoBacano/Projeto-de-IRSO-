@@ -5,8 +5,8 @@ from requests import (post,get)
 
 camera = cv2.VideoCapture(0)
 delay=5000
-url='http://127.0.0.1/ti/upload.php'
-url2='http://127.0.0.1/ti/api/api.php?nome=temperatura'
+url='http://127.0.0.1/prsi/upload.php'
+url2='http://127.0.0.1/prsi/api/api.php?nome=temperatura'
 
 def send_file(file):
     print("A enviar ficheiro para a web...")
